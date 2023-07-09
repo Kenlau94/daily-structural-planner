@@ -1,6 +1,6 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-This week we were tasked to create a simple calander app that allows a user to save events for each hour of a typical work day powered by jQuery. The first thing I did was to copy and paste a current div and simple changing the tags until I had enough for the full work day schedule. After I finished with the html, I began with the time and date using dayjs and added a function to show a sleep emoji if it is night time and a sunglass emoji during the day. The rest is pretty straight forward.
+This week we were tasked to create a simple calander app that allows a user to save events for each hour of a typical work day powered by jQuery. The first thing I did was to copy and paste a current div and simple changing the tags until I had enough for the full work day schedule. After I finished with the html, I began with the time and date using dayjs and added a function to show a sleep emoji if it is night time and a sunglass emoji during the day. The rest is pretty straight forward. As simple as this project was, could not have done it without notes, webmd, and my classmates.
 
 ## User Story
 

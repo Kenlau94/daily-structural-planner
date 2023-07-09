@@ -48,7 +48,6 @@ $(function () {
     } else {
       currentDay.text(date + " 😴 " + time);
     }
-    //currentDay.text(date + " || " + time);
   }
 
   //we begin to create the function to set the colors
