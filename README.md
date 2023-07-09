@@ -77,13 +77,12 @@ This Challenge is graded based on the following criteria:
 
 - Repository contains quality README file with description, screenshot, and link to deployed application
 
-## Links
+## App
 
-[Repo](https://github.com/Kenlau94/daily-structural-planner/tree/main)
 [App](https://kenlau94.github.io/daily-structural-planner/)
 
 ## Screenshots
 
-![NightTime](./assets/images/nightTime.jpg)
-![DayTime](./assets/images/dayTime.jpg)
+![Pic 1](./assets/images/nightTime.jpg)
+![Pic 2](./assets/images/dayTime.jpg)
 ```
