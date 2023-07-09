@@ -4,15 +4,12 @@ This week we were tasked to create a simple calander app that allows a user to s
 
 ## User Story
 
-```md
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-```
 
 ## Acceptance Criteria
 
-```md
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -29,23 +26,22 @@ THEN the saved events persist
 
 ## Grading Requirements
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> - A repository that has no code
->
-> - A repository that includes a unique name but nothing else
->
-> - A repository that includes only a README file but nothing else
->
-> - A repository that only includes starter code
+**Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
+
+- A repository that has no code
+
+- A repository that includes a unique name but nothing else
+
+- A repository that includes only a README file but nothing else
+
+- A repository that only includes starter code
 
 This Challenge is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
 - Satisfies all of the above acceptance criteria plus the following:
-
-  - Uses a date utility library to work with date and time
+- Uses a date utility library to work with date and time
 
 ### Deployment: 32%
 
@@ -85,4 +81,3 @@ This Challenge is graded based on the following criteria:
 
 ![Pic 1](./assets/images/nightTime.jpg)
 ![Pic 2](./assets/images/dayTime.jpg)
-```
